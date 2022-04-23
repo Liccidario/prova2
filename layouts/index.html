@@ -36,7 +36,7 @@
 <!--=================== banner section end ===================-->
 
 <!--=================== banner section start ===================-->
-{{ with <site class="Params banner2"></site> }}
+{{ with site.Params.banner2 }}
 {{ if .enable }}
 
 {{ $bgImage:= resources.Get .background_image }}
