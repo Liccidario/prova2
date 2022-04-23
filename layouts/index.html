@@ -14,7 +14,7 @@
         <p class="mb-4 fs-6 text-light-600">{{.content | markdownify}}</p>
         {{ if .button_label }}
         <a href="{{ .button_link | absURL }}" class="btn btn-primary">{{ .button_label }}</a>
-        <a href="https://blog-dl.netlify.app/contact/" class="btn btn-secondary"><label for="Contattami"></label></a>
+        <a href="https://blog-dl.netlify.app/contact/" class="btn btn-secondary"></label></a>
         {{ end }}
       </div>
       {{ with .image }}
