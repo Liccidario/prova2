@@ -8,4 +8,10 @@
 
   [plugins.inputs]
   cloudName = "<liccidario-com>"
+  deliveryType = "upload"
+  CLOUDINARY_API_KEY="[916158676383474]"
+  CLOUDINARY_API_SECRET="[WgxPmDq1ugnNKIXklpNarRqMTIQ]"
+
+
+
 }
