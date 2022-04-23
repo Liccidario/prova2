@@ -54,16 +54,7 @@ content = "Ciao sono Dario, aiuto Aziende e Privati nel mondo dell'informatica."
 button_label = "Scopri di più"
 button_link = "about/"
 
-# Banner2
-[banner]
-enable = true
-title_large = "Niente Stress, Velocità, Prezzi Onesti **!**"
-title_small = "Fatti conigliare dai Professionisti "
-image = "images/banner.png"
-background_image = "/images/banner-bg-shape.svg"
-content = "Ciao sono Dario, aiuto Aziende e Privati nel mondo dell'informatica."
-button_label = "Contattami"
-button_link = "contact/"
+
 
 # Advertise
 [advertisement]
