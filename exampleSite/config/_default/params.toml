@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
+logo = "images/logo.webp"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
 logo_width = "150x"
@@ -15,24 +15,24 @@ description = "This is meta description"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+address = "Corso G.Matteotti 40 Castellanza 21053 (VA)"
+mobile = "329-18-63-012"
+email = "info@liccidario.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "netlify" # contact form works with https://formspree.io
 # search
 search = true
 
 # featured post title
-featured_post_title = "Featured Post"
-recent_post_title = "Recent Post"
+featured_post_title = "Post in primo piano"
+recent_post_title = "Post Recenti"
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+about_widget_content = "La tecnologia anche per neofiti."
 # footer content
-footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
+footer_content = "La tecnologia anche per neofiti."
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Licci Dario](https://liccidario.com/) & Developed By [Licci Dario](https://liccidario.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
@@ -40,31 +40,31 @@ custom_script= ""
 
 # Preloader
 [preloader]
-enable = false
+enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]
 enable = true
-title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_large = "Niente Stress, Velocità, Prezzi Onesti **!**"
+title_small = "Fatti conigliare dai Professionisti "
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
-button_label = "Know About Me"
+content = "Ciao sono Dario, aiuto Aziende e Privati nel mondo dell'informatica."
+button_label = "Scopri di più"
 button_link = "about/"
 
 # Advertise
 [advertisement]
 image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+link = "https://liccidario.com/negozio"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Questo sito utilizza i cookie. Continuando a utilizzare questo sito Web, acconsenti al loro utilizzo."
+button = " Accetto"
 
 ######################## sidebar widgets #########################
 [widgets]
@@ -84,17 +84,17 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/liccidario"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/liccidario_com"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/pc_gaming_castellanza"
 
 [[social]]
 title = "github"
@@ -104,4 +104,4 @@ link = "#"
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/in/dario-licci/"
