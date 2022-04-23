@@ -3,3 +3,8 @@
     "netlify-plugin-cloudinary": "^1.0.3"
   }
 }
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "<liccidario-com>"
