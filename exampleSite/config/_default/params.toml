@@ -54,12 +54,6 @@ content = "Ciao sono Dario, aiuto Aziende e Privati nel mondo dell'informatica."
 button_label = "Scopri di più"
 button_link = "about/"
 
-# Banner2
-[banner2]
-enable = true
-button_label = "Contattami"
-button_link = "contact/"
-
 
 
 # Advertise
