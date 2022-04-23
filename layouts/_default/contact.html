@@ -16,7 +16,7 @@
           <h3 class="h4 mb-5 text-capitalize">Send Us A
             <span class="text-primary"> message <i class="fas fa-arrow-right ms-2"></i></span>
           </h3>
-          <form action="{{site.Params.contact_form_action | safeURL}}" method="POST">
+          <form action="https://formspree.io/f/mjvlpvwa" method="POST">
             <div class="form-group">
               <label for="name" class="form-label">Full name <small>*</small></label>
               <input type="text" class="form-control" name="name" id="name" placeholder="Thomas Milano" required>
@@ -52,7 +52,7 @@
       {{ with site.Params.email }}
       <div class="col-lg-4">
         <div class="card text-center">
-          <a href="mailto:{{info@liccidario.com}}"><i class="fas fa-envelope text-primary"></i>{{.}}</a>
+          <a href="mailto:{{}}"><i class="fas fa-envelope text-primary"></i>{{.}}</a>
         </div>
       </div>
       {{ end }}
