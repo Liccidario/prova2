@@ -74,7 +74,7 @@ sidebar = ["about", "categories", "recent-post", "newsletter"]
 
 # Subscription
 [subscription]
-enable = false
+enable = true
 # mailchimp subsciption
 mailchimp_form_action = "https://licci.substack.com" # replace this url with yours
 mailchimp_form_name = " "
