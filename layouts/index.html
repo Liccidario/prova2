@@ -9,7 +9,7 @@
   <div class="container">
     <div class="row align-items-center flex-column-reverse flex-lg-row">
       <div class="col-lg-6 mb-5 mb-lg-0">
-        {{ with .title_large }}<h1 class="font_size: 14px">{{ . | markdownify }}</h1>{{ end }}
+        {{ with .title_large }}<h1 class="banner-title mb-0">{{ . | markdownify }}</h1>{{ end }}
         {{ with .title_small }}<h2 class="h2 fw-normal mb-4">{{ . | markdownify}}</h2>{{ end }}
         <p class="mb-4 fs-12 text-light-600">{{.content | markdownify}}</p>
         {{ if .button_label }}
