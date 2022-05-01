@@ -86,10 +86,10 @@ sections:
 - type: document
   path: exampleSite/config/_default/menus.de.toml
   label: Menu (de)
-upload_dir: exampleSite/static/images
-public_path: "/images"
+upload_dir: https://cloudinary.com/console/c-13b67953c6ee4b322ee3be44b5930c/media_library/folders/be65ef2bf1892ddfd7199f6cf755e92db5
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
