@@ -3,7 +3,7 @@ title: "Come scaricare la posta hotmail in imap con thunederbird"
 description: "meta description"
 image: "https://res.cloudinary.com/liccidario-com/image/upload/v1650456336/sito/mail_ayd9kj.jpg"
 date: 2022-05-01T18:19:25+06:00
-categories: ["Thunderbird", "Hotmail"]
+categories: ["thunderbird", "hotmail"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
