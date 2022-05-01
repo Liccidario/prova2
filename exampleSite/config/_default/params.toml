@@ -46,7 +46,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "Niente Stress, Velocità, Prezzi Onesti **!**"
+title = "Niente Stress, Velocità, Prezzi Onesti **!**"
 title_small = "Fatti conigliare dai Professionisti "
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
