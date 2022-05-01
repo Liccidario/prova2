@@ -1,10 +1,10 @@
 ---
 title: "Come scaricare la posta hotmail con thunderbird"
 description: "meta description"
-image: "images/post/post-1.png"
+image: "https://res.cloudinary.com/liccidario-com/image/upload/v1650456336/sito/mail_ayd9kj.jpg"
 date: 2021-01-24T18:19:25+06:00
 categories: ["thunderbird"]
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
