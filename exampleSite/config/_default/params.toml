@@ -1,107 +1,66 @@
-#################### default parameters ################################
-# favicon
-favicon = "images/favicon.png"
-# logo
-logo = "images/logo.webp"
-# use `x` with logo_width, example: "100x".
-# Note: logo_width is not work with .svg file
-logo_width = "150x"
-# logo text will only show when logo is missing.
-logo_text = "Boilerplate"
-# navbar fixed to top
-navbar_fixed = false
-# OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
-# contact info
-address = "Corso G.Matteotti 40 Castellanza 21053 (VA)"
-mobile = "329-18-63-012"
-email = "info@liccidario.com"
-# contact form action
-contact_form_action = "netlify" # contact form works with https://formspree.io
-# search
-search = true
-
-# featured post title
-featured_post_title = "Post in primo piano"
-recent_post_title = "Post Recenti"
-mainSections = ["blog"]
-# about widget content
 about_widget_content = "La tecnologia anche per neofiti."
-# footer content
-footer_content = "La tecnologia anche per neofiti."
-# copyright
+address = "Corso G.Matteotti 40 Castellanza 21053 (VA)"
+author = "Licci Dario"
+contact_form_action = "netlify"
 copyright = "Designed By [Licci Dario](https://liccidario.com/) & Developed By [Licci Dario](https://liccidario.com/)"
-
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= ""
-
-
-# Preloader
-[preloader]
-enable = true
-preloader = "" # use jpg, png, svg or gif format.
-
-# Banner
-[banner]
-enable = true
-title_large = "Niente Stress, Velocità, Prezzi Onesti **!**"
-title_small = "Fatti conigliare dai Professionisti "
-image = "images/banner.png"
-background_image = "/images/banner-bg-shape.svg"
-content = "Ciao sono Dario, aiuto Aziende e Privati nel mondo dell'informatica."
-button_label = "Scopri di più"
-button_link = "about/"
-
-# Advertise
+custom_script = ""
+description = "This is meta description"
+email = "info@liccidario.com"
+favicon = "images/favicon.png"
+featured_post_title = "Post in primo piano"
+footer_content = "La tecnologia anche per neofiti."
+image = "images/logo.png"
+logo = "images/logo.webp"
+logo_text = "Boilerplate"
+logo_width = "150x"
+mainSections = ["blog"]
+mobile = "329-18-63-012"
+navbar_fixed = false
+recent_post_title = "Post Recenti"
+search = true
 [advertisement]
 image = "images/promotion.png"
 link = "https://liccidario.com/negozio"
-
-# cookies
+[banner]
+background_image = "/images/banner-bg-shape.svg"
+button_label = "Scopri di più"
+button_link = "about/"
+content = "Ciao sono Dario, aiuto Aziende e Privati nel mondo dell'informatica."
+enable = true
+image = "images/banner.png"
+title_large = "Niente Stress, Velocità, Prezzi Onesti **!**"
+title_small = "Fatti conigliare dai Professionisti "
 [cookies]
+button = " Accetto"
+content = "Questo sito utilizza i cookie. Continuando a utilizzare questo sito Web, acconsenti al loro utilizzo."
 enable = true
 expire_days = 2
-content = "Questo sito utilizza i cookie. Continuando a utilizzare questo sito Web, acconsenti al loro utilizzo."
-button = " Accetto"
-
-######################## sidebar widgets #########################
-[widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
-# available widget : about,categories,newsletter,recent-post
-
-
-# Subscription
+[preloader]
+enable = true
+preloader = ""
 [subscription]
 enable = false
-# mailchimp subsciption
-mailchimp_form_action = "https://app.us14.list-manage.com/subscribe/post?u=bc0c9b25d45bb944b76d9b6bb&amp;id=5f133e0cdc" # replace this url with yours
-mailchimp_form_name = "mc-embedded-subscribe-form" # replace this code with yours
-
-
-############################# social site ########################
+mailchimp_form_action = "https://app.us14.list-manage.com/subscribe/post?u=bc0c9b25d45bb944b76d9b6bb&amp;id=5f133e0cdc"
+mailchimp_form_name = "mc-embedded-subscribe-form"
+[widgets]
+sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-facebook"
 link = "https://www.facebook.com/liccidario"
-
+title = "facebook"
 [[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-twitter"
 link = "https://twitter.com/liccidario_com"
-
+title = "twitter"
 [[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-instagram"
 link = "https://www.instagram.com/pc_gaming_castellanza"
-
+title = "instagram"
 [[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-github"
 link = "#"
-
+title = "github"
 [[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/dario-licci/"
+title = "linkedin"
