@@ -10,7 +10,7 @@ tags: [ciao, bella]
 ---
 
 
-Patiamo con spiegare qual'e la differenza tra Imap e Pop3.Imap ti permette di sincronizare le mail su piu dispositivi, mentre il pop3 no. Questa e la differenza piu importante. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Patiamo con spiegare qual'e la differenza tra Imap e Pop3. Imap ti permette di sincronizare le mail su piu dispositivi, mentre il pop3 no. Questa e la differenza piu importante. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 
 #### Covid-19 Situation
