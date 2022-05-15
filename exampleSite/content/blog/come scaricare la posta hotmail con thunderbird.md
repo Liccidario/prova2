@@ -6,7 +6,7 @@ date: 2022-05-15T18:19:25+06:00
 categories: ["thunderbird"]
 type: "featured" # available types: [featured/regular]
 draft: false
-tags: [thunderbird, Hotmail]
+tags: [Thunderbird, Hotmail]
 ---
 
 
@@ -31,7 +31,7 @@ Password: la password che utilizzate per accedere alla webmail<br>
 #### Come attivare IMAP su Hotmail? 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="https://res.cloudinary.com/liccidario-com/image/upload/v1652652400/sito/outlook_imap_config_manuale1_dip6nt.png" alt="alter-text" >}}
 
 
 #### 
