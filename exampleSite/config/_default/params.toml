@@ -20,7 +20,7 @@ recent_post_title = "Post Recenti"
 search = true
 [advertisement]
 image = "images/promotion.png"
-link = "https://liccidario.com/negozio"
+link = "https://liccidario.com/shop"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Scopri di più"
