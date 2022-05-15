@@ -21,10 +21,10 @@ IMAP permette l’accesso simultaneo da parte di più client. IMAP è quindi pi�
 
 
 #### Quale è il server di Hotmail?
-Nome del server SMTP di Hotmail: smtp.live.com
-Porta SMTP di Hotmail: 25 o 465
-Nome utente del server SMTP di Hotmail: il vostro indirizzo Hotmail
-Password: la password che utilizzate per accedere alla webmail 
+Nome del server SMTP di Hotmail: smtp.live.com <br>
+Porta SMTP di Hotmail: 25 o 465<br>
+Nome utente del server SMTP di Hotmail: il vostro indirizzo Hotmail<br>
+Password: la password che utilizzate per accedere alla webmail<br>
 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
