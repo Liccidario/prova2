@@ -2,7 +2,7 @@
 title: "Come configurare account Hotmail su Thunderbird?"
 description: "meta description"
 image: "https://res.cloudinary.com/liccidario-com/image/upload/v1650456336/sito/mail_ayd9kj.jpg"
-date: 2021-01-24T18:19:25+06:00
+date: 2022-05-15T18:19:25+06:00
 categories: ["thunderbird"]
 type: "featured" # available types: [featured/regular]
 draft: false
@@ -21,7 +21,10 @@ IMAP permette l’accesso simultaneo da parte di più client. IMAP è quindi pi�
 
 
 #### Quale è il server di Hotmail?
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Nome del server SMTP di Hotmail: smtp.live.com
+Porta SMTP di Hotmail: 25 o 465
+Nome utente del server SMTP di Hotmail: il vostro indirizzo Hotmail
+Password: la password che utilizzate per accedere alla webmail 
 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
