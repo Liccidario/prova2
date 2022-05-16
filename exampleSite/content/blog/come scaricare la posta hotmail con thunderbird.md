@@ -1,7 +1,7 @@
 ---
 title: "Come configurare account Hotmail su Thunderbird?"
 description: "meta description"
-image: "https://res.cloudinary.com/liccidario-com/image/upload/v1650456336/sito/mail_ayd9kj.jpg"
+image: "https://res.cloudinary.com/liccidario-com/image/upload/v1652711060/sito/Thunderbird.jpg"
 date: 2022-05-15T18:19:25+06:00
 categories: ["thunderbird"]
 type: "featured" # available types: [featured/regular]
